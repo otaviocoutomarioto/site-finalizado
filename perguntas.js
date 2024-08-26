@@ -1,9 +1,9 @@
 export const perguntas = [
     {
-        enunciado: Em qual década o rodeio chegou no Brasil?
+        enunciado: "Em qual década o rodeio chegou no Brasil?",
         alternativas: [
             {
-                texto: "a)70 b)50,
+                texto: "a)70",
                 afirmacao: [
                     "No início ficou com medo do que essa tecnologia pode fazer.",
                     "Achou assustador pensar na velocidade na qual a tecnologia está avançando."
@@ -11,7 +11,7 @@ export const perguntas = [
                 proxima: 1,
             },
             {
-                texto: "Isso é maravilhoso!",
+                texto: "b)50",
                 afirmacao: [
                     "Quis saber como usar IA no seu dia a dia.",
                     "Pensou que IA pode ajudar em tarefas da sua vida."
@@ -21,19 +21,13 @@ export const perguntas = [
         ]
     },
     {
-        enunciado?",Quais são os esportes do rodeio ?
+        enunciado? "Quais são os esportes do rodeio ?",
         alternativas: [
             {
-                texto: ",a)montaria em touros,montaria em cavalos e três tamboress
-                afirmacao: [
-                    "Conseguiu utilizar a IA para buscar informações úteis.",
-                    "Percebeu que a IA pode ajudar a encontrar informações úteis na internet de forma mais rápida e direcionada.",
-                    "Percebeu que a IA consegue explicar termos complicados de forma simplificada e isso ajudou muito suas pesquisas sobre assuntos complexos."
-                ],
-                proxima: 3,
-            },
+                texto: ",a)montaria em touros,montaria em cavalos e três tamborees",
+                afirmacao: [sso 
             {
-                texto: "Escreve o trabalho com base nas conversas que teve com colegas, algumas pesquisas na internet e conhecimentos próprios sobre o tema.",
+                texto: "Tênis de mesa, basquete e hipismo",
                 afirmacao: [
                     "Sentiu mais facilidade em utilizar seus próprios recursos para escrever seu trabalho.",
                     "Achou que era muito mais fácil procurar por respostas utilizando alguns meios mais tradicionais mesmo que levasse mais tempo.",
@@ -46,7 +40,7 @@ export const perguntas = [
     {
         enunciado: "quem ajudou a difundir essa modalidade em todo o território nacional e transformou o esporte em profissão ?",
         alternativas: [
-            {texto: a)Tião carreiro b)Tião Procópio",
+            {texto: "a)Tião carreiro",
                 afirmacao: [
                     "Conseguiu utilizar a IA para buscar informações úteis.",
                     "Percebeu que a IA pode ajudar a encontrar informações úteis na internet de forma mais rápida e direcionada.",
@@ -55,7 +49,7 @@ export const perguntas = [
                 proxima: 3,
             },
             {
-                texto: "Escreve o trabalho com base nas conversas que teve com colegas, algumas pesquisas na internet e conhecimentos próprios sobre o tema.",
+                texto: "b)Tião Procópio",
                 afirmacao: [
                     "Sentiu mais facilidade em utilizar seus próprios recursos para escrever seu trabalho.",
                     "Achou que era muito mais fácil procurar por respostas utilizando alguns meios mais tradicionais mesmo que levasse mais tempo.",
